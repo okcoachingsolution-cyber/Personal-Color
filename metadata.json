@@ -1,0 +1,8 @@
+{
+  "name": "퍼스널컬러 AI 컨설턴트",
+  "description": "얼굴 사진을 분석하여 당신에게 가장 잘 어울리는 퍼스널 컬러를 찾아드리는 AI 서비스입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
